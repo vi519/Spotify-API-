@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <Reference Include="SpotifyAPI.Web">
+    <HintPath>..\dll\SpotifyAPI.Web.dll</HintPath>
+  </Reference>
+
+  <Reference Include="SpotifyAPI.Web.Auth">
+    <HintPath>..\dll\SpotifyAPI.Web.Auth.dll</HintPath>
+  </Reference>
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\**\*" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EmbedIO" Version="3.4.3" />
+  </ItemGroup>
+
+</Project>

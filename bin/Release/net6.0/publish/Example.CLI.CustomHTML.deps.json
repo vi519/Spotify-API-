@@ -1,0 +1,87 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Example.CLI.CustomHTML/1.0.0": {
+        "dependencies": {
+          "EmbedIO": "3.4.3",
+          "SpotifyAPI.Web.Auth": "1.0.0.0",
+          "SpotifyAPI.Web": "1.0.0.0"
+        },
+        "runtime": {
+          "Example.CLI.CustomHTML.dll": {}
+        }
+      },
+      "EmbedIO/3.4.3": {
+        "dependencies": {
+          "Unosquare.Swan.Lite": "3.0.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/EmbedIO.dll": {
+            "assemblyVersion": "3.4.3.0",
+            "fileVersion": "3.4.3.0"
+          }
+        }
+      },
+      "Unosquare.Swan.Lite/3.0.0": {
+        "runtime": {
+          "lib/netstandard2.0/Swan.Lite.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.0.0.0"
+          }
+        }
+      },
+      "SpotifyAPI.Web.Auth/1.0.0.0": {
+        "runtime": {
+          "SpotifyAPI.Web.Auth.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SpotifyAPI.Web/1.0.0.0": {
+        "runtime": {
+          "SpotifyAPI.Web.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Example.CLI.CustomHTML/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EmbedIO/3.4.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YM6hpZNAfvbbixfG9T4lWDGfF0D/TqutbTROL4ogVcHKwPF1hp+xS3ABwd3cxxTxvDFkj/zZl57QgWuFA8Igxw==",
+      "path": "embedio/3.4.3",
+      "hashPath": "embedio.3.4.3.nupkg.sha512"
+    },
+    "Unosquare.Swan.Lite/3.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-noPwJJl1Q9uparXy1ogtkmyAPGNfSGb0BLT1292nFH1jdMKje6o2kvvrQUvF9Xklj+IoiAI0UzF6Aqxlvo10lw==",
+      "path": "unosquare.swan.lite/3.0.0",
+      "hashPath": "unosquare.swan.lite.3.0.0.nupkg.sha512"
+    },
+    "SpotifyAPI.Web.Auth/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SpotifyAPI.Web/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

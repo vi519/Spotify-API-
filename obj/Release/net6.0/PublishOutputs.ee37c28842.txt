@@ -1,0 +1,9 @@
+C:\Users\WELCOME\docker-app\SpotifyAPI-NET\SpotifyAPI.Web.Examples\Example.CLI.CustomHTML\bin\Release\net6.0\publish\Example.CLI.CustomHTML.exe
+C:\Users\WELCOME\docker-app\SpotifyAPI-NET\SpotifyAPI.Web.Examples\Example.CLI.CustomHTML\bin\Release\net6.0\publish\Example.CLI.CustomHTML.dll
+C:\Users\WELCOME\docker-app\SpotifyAPI-NET\SpotifyAPI.Web.Examples\Example.CLI.CustomHTML\bin\Release\net6.0\publish\Example.CLI.CustomHTML.deps.json
+C:\Users\WELCOME\docker-app\SpotifyAPI-NET\SpotifyAPI.Web.Examples\Example.CLI.CustomHTML\bin\Release\net6.0\publish\Example.CLI.CustomHTML.runtimeconfig.json
+C:\Users\WELCOME\docker-app\SpotifyAPI-NET\SpotifyAPI.Web.Examples\Example.CLI.CustomHTML\bin\Release\net6.0\publish\Example.CLI.CustomHTML.pdb
+C:\Users\WELCOME\docker-app\SpotifyAPI-NET\SpotifyAPI.Web.Examples\Example.CLI.CustomHTML\bin\Release\net6.0\publish\EmbedIO.dll
+C:\Users\WELCOME\docker-app\SpotifyAPI-NET\SpotifyAPI.Web.Examples\Example.CLI.CustomHTML\bin\Release\net6.0\publish\Swan.Lite.dll
+C:\Users\WELCOME\docker-app\SpotifyAPI-NET\SpotifyAPI.Web.Examples\Example.CLI.CustomHTML\bin\Release\net6.0\publish\SpotifyAPI.Web.Auth.dll
+C:\Users\WELCOME\docker-app\SpotifyAPI-NET\SpotifyAPI.Web.Examples\Example.CLI.CustomHTML\bin\Release\net6.0\publish\SpotifyAPI.Web.dll

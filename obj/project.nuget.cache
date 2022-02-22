@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "d1/HWjMr7GQQBGHWQEZr24+RLj4lcO+hY9rfLF4d+l80utx8sdNqwXnztmbJz9GwY9H/hKPoAkgukSFHkyUK7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WELCOME\\docker-app\\SpotifyAPI-NET\\SpotifyAPI.Web.Examples\\Example.CLI.CustomHTML\\Example.CLI.CustomHTML.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WELCOME\\.nuget\\packages\\embedio\\3.4.3\\embedio.3.4.3.nupkg.sha512",
+    "C:\\Users\\WELCOME\\.nuget\\packages\\unosquare.swan.lite\\3.0.0\\unosquare.swan.lite.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
