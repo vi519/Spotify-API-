@@ -11,8 +11,8 @@ namespace Example.CLI.CustomHTML
 {
   public class Program
   {
-    private static readonly string clientId = "ac2982f38e2b40cc98ec2096e338f690";
-    private static readonly string clientSecret = "faed0ff166d246ffa322bf5a8a176e90";
+    private static readonly string clientId = "#########";
+    private static readonly string clientSecret = "#############";
     private static EmbedIOAuthServer _server;
 
     public static async Task Main()
